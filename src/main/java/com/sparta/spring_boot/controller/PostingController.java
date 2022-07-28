@@ -52,5 +52,5 @@ public class PostingController {
         postingService.update(id, requestDto);
         return id;
     }
-+
+
 }
